@@ -22,14 +22,21 @@ prose:
           label: 'Tags'
           help: 'Choose relevant tags (optional)'
           alterable: false
-          options: [
-            'Agile',
-            'Culture',
-            'Design',
-            'Events',
-            'Innovation',
-            'Lean',
-            'Rails' ]
+          options:
+            - name: 'Agile'
+              value: 'Agile'
+            - name: 'Culture'
+              value: 'Culture'
+            - name: 'Design'
+              value: 'Design'
+            - name: 'Events'
+              value: 'Events'
+            - name: 'Innovation'
+              value: 'Innovation'
+            - name: 'Lean'
+              value: 'Lean'
+            - name: 'Rails'
+              value: 'Rails'
 
       - name: 'main_image'
         field:
