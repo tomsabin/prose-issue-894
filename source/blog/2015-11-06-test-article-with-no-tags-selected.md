@@ -1,12 +1,14 @@
 ---
 layout: blog
 author: Tom S
-tags: null
+tags: 
+  - "null"
 main_image: ""
 date: "2015-11-06 10:30 +0000"
 published: true
-title: Test article with no tags selected
+title: Test article from Chrome
 ---
+
 
 ## A New Post
 
